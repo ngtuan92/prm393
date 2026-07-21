@@ -1,0 +1,1 @@
+export const POSTGRES_POOL = 'POSTGRES_POOL';
